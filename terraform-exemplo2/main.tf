@@ -28,7 +28,7 @@ resource "google_compute_instance" "vm_instance" {
   tags = ["prod"]
 
   labels = {
-    centro_custo = "${var.ceoperations-it}"
+    centro_custo = "${var.centro_perations_it}"
   }
 
   boot_disk {
