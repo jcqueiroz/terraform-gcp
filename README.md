@@ -1,9 +1,18 @@
-# Desafio Pipeline CICD Cloud Build + Terraform.
+##########Challenge Pipeline CICD Cloud Build + Terraform ########
 
-1. Utilize o git https://github.com/digitalinnovationone/terraform-gcp/tree/main/terraform-exemplo2 para configurar a trigger do Cloud Build.
+1. Use git https://github.com/digitalinnovationone/terraform-gcp/tree/main/terraform-example2 to configure the Cloud Build trigger.
 
-2. Edite o script para trocar o nome da máquina para cloudbbuildterraform.
+2. Edit the script to change the machine name to cloudbbuildterraform.
 
-3. Salve os arquivos do Estado no Google Cloud Storage.
+3. Save State files to Google Cloud Storage.
 
-Submeta o print de cada etapa de configuração do Pipeline .
+Submit a printout of each Pipeline configuration step.
+
+               ##DIO-CloudDevOpsExperience-2022 #By-jcqueiroz##
+##################################################################
+
+<p align="center">
+  <img src="/IMG/1.png" width="800" title="Cloud Build trigger">
+  <img src="/IMG/2.png" width="800" title="cloudbbuildterraform">
+  <img src="/IMG/3.png" width="800" title=" State files to Google Cloud Storage">
+</p> 
