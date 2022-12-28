@@ -8,5 +8,3 @@ steps:
   - | 
    
     terraform apply -auto-approve
- 
-#teste
